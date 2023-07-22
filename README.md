@@ -1,2 +1,2 @@
 # zomato-clone
-This is a beginner's project to start with html css bootstrap.
+This is a beginner's project to start with html css.
